@@ -3,7 +3,7 @@
 
 
 ## ⚔️ Desafio proposto
-Um clone fullstack do chatgpt utilizando uma integração com o algoritmo do OpenAI
+Um clone fullstack do ChatGPT utilizando uma integração com o algoritmo do OpenAI
 
 
 <!-- <p align="center">
