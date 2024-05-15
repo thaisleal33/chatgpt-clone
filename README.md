@@ -1,5 +1,5 @@
 
-# 🤖 **Desafio Full Stack DIO - ChatGPT Clone**
+# 🤖 **Desafio Full Stack - ChatGPT Clone**
 
 
 ## ⚔️ Desafio proposto
